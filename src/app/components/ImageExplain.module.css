@@ -1,0 +1,25 @@
+.imageWrapper {
+    width: 60vw;
+    display: flex;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.ImageExplain {
+    width: 30vw;
+    font-size: 17px;
+    font-family: "uddigikyokasho-pro", sans-serif;
+    font-style: normal;
+    margin-left: 20px;
+}
+
+.textImageWrapper {
+    object-fit: cover;
+}
+
+.textImage {
+    width: 400px;
+    height: 270px;
+    object-fit: cover;
+    border-radius: 10px;
+}
