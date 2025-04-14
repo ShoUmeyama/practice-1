@@ -8,6 +8,7 @@ export default function Home() {
             <nav className={styles.nav}>
                 <Link href="/">index</Link>
                 <Link href="/about">about</Link>
+                <Link href="/favorite">favorite</Link>
             </nav>
         </header>
     );
